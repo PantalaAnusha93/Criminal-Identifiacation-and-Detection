@@ -45,6 +45,20 @@ A powerful Streamlit-based application that leverages facial recognition technol
 ├── TestVideo/             # Uploaded videos for detection
 ├── Criminal_record.csv    # Stores detection logs
 ```
+
+### 📸 Screenshots
+
+#### 🔍 Criminal Identification and Detection Interface
+![image](https://github.com/user-attachments/assets/a62298f4-434a-49e8-add6-f75c13fad93d)
+
+
+#### 📁 Criminal Registry Upload
+![image](https://github.com/user-attachments/assets/9c2dbc8d-5ef4-4cdb-9432-09841d51ad7a)
+
+
+#### 🎯 Face Detection Output
+![image](https://github.com/user-attachments/assets/4d1e72f5-ddef-4150-ba7f-90068bcc7bb7)
+
 ---
 ---
 
